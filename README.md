@@ -1,2 +1,2 @@
 # Deep-Learning-Knowledge-Files
-This is my knowledge that i have learned before . Upload to this repository to prevent forget .
+Those are my knowledges that i have learned before . Upload to this repository to prevent forget .
