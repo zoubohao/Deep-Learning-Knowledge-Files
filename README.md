@@ -1,2 +1,2 @@
 # Deep-Learning-Knowledge-Files
-Those files are knowledge which i have learned before. Upload to this repository to prevent forget.
+Those files are theses which i have read. Upload to this repository to prevent forget.
